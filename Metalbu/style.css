@@ -31,7 +31,7 @@ body{
   padding: 0px ;
 }
 
-
+/*creo triangulo para usar de marcador*/
 .tri {
   display: inline-block;
   background-color: red;
@@ -181,7 +181,7 @@ body{
 
 
 .col{
-  background-color: rgba(0, 0, 0, .5); /*quiero repartir los cuatro respecto al largo del .modelos, por ahora me conformo con que vaya asi*/
+  background-color: rgba(0, 0, 0, .5); /*quiero repartir los cuatro "col" respecto al largo del  .modelos, por ahora me conformo con que vaya asi*/
   width: 22.5%;
   padding: 0;
   margin-right: 12.5px;
